@@ -1,1 +1,10 @@
+---
+title: "Essays"
+format:
+  html:
+    toc: true
+    html-math-method: katex
+    css: styles.css
+---
+
 Welcome to my book. It's not a blog; it's a book.
