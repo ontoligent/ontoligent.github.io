@@ -19,6 +19,3 @@ format:
     theme: cosmo
   pdf:
     documentclass: scrreprt
-
-
-
