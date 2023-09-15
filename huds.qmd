@@ -1,0 +1,28 @@
+---
+title: "Humanities Data Science Collaboratory"
+editor: visual
+---
+
+We are founded on the premise that DS needs the Humanities and the Humanities needs DS.
+
+-   DS give the Humanities expertise in processing and modeling data.
+
+-   The Humanities give DS critical skills and design expertise.
+
+The humanities are rooted in history.
+
+-   The data of the Humanities are primary sources, "the records left by man".
+
+-   Language is the medium through which history is transmitted and understood.
+
+-   The output of the Humanities is narrative.
+
+We seek to sponsor projects, collaborations, and colloquia Current projects and collaborations include:
+
+-   The Multepal Project.
+
+-   The DH Certificate.
+
+-   Gaming Lab with IHGC.
+
+# 

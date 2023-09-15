@@ -1,0 +1,42 @@
+---
+title: "2023-09-14 Distinguished Lecture"
+editor: visual
+---
+
+Jo McEntyre, Associate Director for Services, EMBL-EBI
+
+Developing Open Data Resources at the European Bioinformatics Institute
+
+Bioimage Archive \<\--
+
+COVID-19 Data Portal
+
+Spatial Transcriptomics
+
+Human Cell Atlas
+
+Integrated Human Lung Cell Atlas
+
+Future:
+
+-   Future proofing for responsiveness
+-   Data integration
+-   Drive AI and DS
+
+# Thoughts
+
+Two recurring and pointless concerns:
+
+-   Fixing communication gaps, overcoming silos
+
+    -   Whenever a problem is considered communication, the solution is never adding communication channels. These problems are symptoms of deeper, structural problems in the organization. It's rarely "failure to communicate."
+
+    -   Silos exist for a reason --- they allow for the cultivation of ideas, for example, in disciplines. Best to have many silos.
+
+-   Getting in front of change, being proactive not reactive
+
+    -   Good luck with this --- really big changes are almost by definition unpredicable.
+
+    -   Look at the track record of organizations that try to anticipate the future --- e.g. Horizons Report. Either way too premature or completely missed.
+
+    -   No shame in being reactive --- it's called adaptability.

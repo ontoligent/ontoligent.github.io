@@ -1,0 +1,76 @@
+---
+title: "The Residential MSDS"
+author: "R.C. Alvarado | Associate Professor AGF"
+format:
+  revealjs: 
+    theme: moon
+    # css: raf-reveal.css
+---
+
+## Introduction
+
+## Current Structure
+
+- 66 students
+
+## History
+
+- First graduating class 2015
+- First inter-school degree at UVA
+- Originally a collaboration of CS, Statistics, and Systems Engineering
+- Several curricular changes
+- Emergence of DS courses
+
+## The Capstone
+
+
+
+## Degree Combos
+
+- Dual Degree with Darden
+- PhD programs
+
+## Relation to the 4 + 1
+
+## Other Facts
+
+- Currently the smallest program
+
+## Possible Revisions
+
+
+M.S. in Data Science Class of 2024 Profile
+
+The M.S. in Data Science is a residential, cohort-based program designed for high-achieving students interested in data science. 
+
+Cohort Size 63
+
+Average Age* 24
+
+Female-Identifying* 46%
+
+First-Generation* 9%
+
+LGBTQ+* 14%
+
+Military/Veteran* 5%
+
+International 8%
+
+Number of Countries Represented 5
+
+Number of U.S. States and Territories Represented 11
+
+GPA Range 2.7-4.0
+
+Number of Undergraduate Institutions 26
+
+Number of Undergraduate Majors 32
+
+Received Need-Based Fellowship from the School of Data Science 32%
+
+Have Professional Work Experience* 33%
+
+*Optional voluntary response collected
+
+ 

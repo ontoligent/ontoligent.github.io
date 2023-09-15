@@ -8,9 +8,11 @@ book:
   date: "5/8/2023"
   chapters:
     - index.qmd
-    - intro.qmd
-    - summary.qmd
-    - references.qmd
+    - part: "Data Science"
+      chapters:
+        - essays/history-of-ds/ds-from-1963-to-2012.qmd
+    - part: "Digital Humanities"
+    - part: "Notes"
 
 bibliography: references.bib
 

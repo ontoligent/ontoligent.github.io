@@ -1,8 +1,8 @@
 ---
-title: "Essays"
+title: "Preface"
 format:
   html:
-    toc: true
+    toc: false
     html-math-method: katex
     css: styles.css
 ---

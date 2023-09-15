@@ -1,0 +1,16 @@
+# Situating LLMs
+
+>... we fear that the most popular and fashionable strain of A.I. — machine learning — will degrade our science and debase our ethics by incorporating into our technology a fundamentally flawed conception of language and knowledge.
+>
+> &nbsp;&nbsp;&nbsp;&nbsp;Noam Chomsky, "The False Promise of ChatGPT," _New York Times_, 8 March 2023. 
+
+It is hard to overestimate the hostorical significance of large-language models
+
+## Chomsky's Concern
+
+- Easy to dismiss. Chomsky paints with a broad brush, includes all of machine-learning and he has an historic animus against statistcal methods
+- The point remains. The question is, What is the "conception of language and knowledge" entailed by ChatGPT and other generative LLMs?
+
+## Motivation
+
+Let's motivate our discussion with examples

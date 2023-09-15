@@ -1,0 +1,75 @@
+---
+title: "Plan for Computational Humanities Collaboratory"
+author: "R.C.Mapp and R.C. Alvarado"
+format:
+  revealjs: 
+    theme: solarized
+    css: raf-reveal.css
+---
+
+# Overview
+
+## Agenda
+
+- Present General Collaboratory Plan
+- Discuss Two Specific Proposals
+  - Organizational Structure of the Collaboratory
+  - Curricular implementation DH Practicum
+
+## Organizational Structure
+
+:::: {.columns font-size="50%"}
+
+::: {.column width="50%" font-size="50%"}
+
+**Labs**\
+&bullet; XML + Text Analytics​\
+&bullet; LLM Games Lab​\
+&bullet; Historiographic GIS Integrations\
+&bullet; Data Narratology​
+
+**Programs**\
+&bullet; Graduate DH Certificate Program​\
+&bullet; Match humanities researchers with research assistants (both DS and DH)​
+
+:::
+
+::: {.column width="50%"}
+
+**Joint**
+&bullet; Speakers and Colloquia​\
+&bullet; Visiting Scholars and Post-docs​\
+&bullet; MSDS Capstones​\
+&bullet; Research collaborator recruitment​\
+&bullet; Grant writing​
+
+:::
+
+::::
+
+
+## Value Proposition
+
+> The Computational Humanities Collaboratory will​ **generate innovative research at the intersection of DS and DH​** by matching data science methods with ​specific, established digital humanities methods and datasets
+
+# Process
+
+## Process Overview 
+
+1. Align Practices
+2. Shape Labs 
+3. Fund Research 
+4. Orient Activities
+5. Keep Engaged
+
+## 1. Align Practices
+
+## 2. Shape Labs 
+
+## 3. Fund Research 
+
+## 4. Orient Activities
+
+## 5. Keep Engaged
+ 
+# Implementation

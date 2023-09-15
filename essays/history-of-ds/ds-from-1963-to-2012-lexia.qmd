@@ -3,6 +3,24 @@ title: "HODS Lexia"
 editor: visual
 ---
 
+# Quotes to use
+
+> SK: Most statisticians start with design, followed by the col lection of data. Today a lot of "nondesigned" data are widely available. Others will analyze them if statisticians do not. It is imperative that the profession gets to the table earlier.
+>
+> SK: Sally Keller.
+>
+> Kettenring, Jon R., Kenneth J. Koehler, and John D. McKenzie. 2015. "Challenges and Opportunities for Statistics in the Next 25 Years." *The American Statistician* 69 (2): 86--90.
+
+> The second area is the current hot topic of data mining, which statisticians might reasonably think of as data analysis of very large databases. In fact, if you dig down and look at what is involved in data mining, you will find a variety of statistical components, such as statistical graphics and cluster analysis. Moreover, there is a great opportunity to bring a variety of statistical concepts to bear-modeling, sampling, robust estimation, outlier detection, dimensionality reduction, etc. Nevertheless, there are new opportunities as well, and we would be wise to pay very close attention and to become seriously involved with these developments.
+>
+> In fact, if we don't, there is risk that we will be blown away by the momentum that is flowing in this direction. As Jerry Friedman pointed out in his keynote address at Interface '97, we are no longer the only game in town. Many other data oriented sciences are competing with us for customers and students.
+>
+> Also it should not go unnoticed-speaking of image reconstruction!-that the very term, data mining, has captured the fancy of many people, especially in the business community. It is grabbing headlines that statisticians would kill for. The image of data mining is that something powerful is going on there. The reality? Well that may be rather different. It may even turn out that the phrase of the day in the 21st century is
+>
+> > lies, damned lies, and data mining.
+>
+> But for now I believe we should take advantage of the momentum before it fades into another missed opportunity for statistics [@89618ac5-1e4e-3cce-a5de-eb7b926f27c9: 1232].
+
 # Use of Data Science in Other Contexts
 
 The formation of organizational units devoted to data science within the military was not limited to the AFCRL at this time.
@@ -163,7 +181,7 @@ The category of data science become mainstream within military, commercial, and 
 
         -   2004 refers to Glaxo's Medical Data Science's Division:
 
-![Text Description automatically generated](media/image1.png){alt="Text Description automatically generated" width="6.5in" height="2.125in"}
+![Text Description automatically generated](media/image1.png){width="6.5in" height="2.125in"}
 
 Moreover, the kind of work is consistent. Consider the work of White Sands
 
