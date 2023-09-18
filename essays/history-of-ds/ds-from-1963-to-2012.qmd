@@ -38,19 +38,21 @@ between surplus data, indexed by phrases like "data deluge" and "big
 data," and the limitations of computational machinery and methods to
 process them. This persistent condition appears to have motivated the
 use of the term and the field itself since its beginnings.
-
-# Introduction
 :::
 
-> The interests of data scientists---the information and computer
-> scientists, database and software engineers and programmers,
-> disciplinary experts, curators and expert annotators, librarians,
-> archivists, and others, who are crucial to the successful management
-> of a digital data collection---lie in having their creativity and
-> intellectual contributions fully recognized.
->
-> National Science Board, "Long-Lived Digital Collections: Enabling
-> Research and Education in the 21st Century" [@simberloff2005: 27].
+# Introduction
+
+::: {.epigraph}
+The interests of data scientists---the information and computer
+scientists, database and software engineers and programmers,
+disciplinary experts, curators and expert annotators, librarians,
+archivists, and others, who are crucial to the successful management
+of a digital data collection---lie in having their creativity and
+intellectual contributions fully recognized.
+
+National Science Board, "Long-Lived Digital Collections: Enabling
+Research and Education in the 21st Century" [@simberloff2005: 27].
+:::
 
 Data science today is characterized by a paradox. The large number and
 rapid growth of job opportunities and academic programs associated with
