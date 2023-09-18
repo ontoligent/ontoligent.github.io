@@ -1,5 +1,12 @@
 [
   {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Essays",
+    "section": "",
+    "text": "Welcome to my book. It’s not a blog; it’s a book."
+  },
+  {
     "objectID": "essays/history-of-ds/ds-from-1963-to-2012.html",
     "href": "essays/history-of-ds/ds-from-1963-to-2012.html",
     "title": "The History of Data Science: 1963 to 2012",
