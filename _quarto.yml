@@ -5,7 +5,7 @@ project:
 book:
   title: "Essays"
   author: "Rafael C. Alvarado"
-  date: "5/8/2023"
+  repo-url: https://github.com/ontoligent/ontoligent.github.io 
   chapters:
     - index.qmd
     - part: "Data Science"
@@ -14,10 +14,14 @@ book:
     - part: "Digital Humanities"
     - part: "Notes"
 
+comments:
+  hypothesis: true
+
 bibliography: references.bib
 
 format:
   html:
-    theme: cosmo
-  pdf:
-    documentclass: scrreprt
+    number-sections: false
+    theme: [cosmo, default.css]
+#  pdf:
+#    documentclass: scrreprt

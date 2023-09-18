@@ -10,6 +10,7 @@ R.C. Alvarado
 
 # Abstract
 
+::: {#abstract}
 Consensus on the definition of data science remains low despite the
 widespread establishment of academic programs in the field and continued
 demand for data scientists in industry. Definitions range from rebranded
@@ -39,6 +40,7 @@ process them. This persistent condition appears to have motivated the
 use of the term and the field itself since its beginnings.
 
 # Introduction
+:::
 
 > The interests of data scientists---the information and computer
 > scientists, database and software engineers and programmers,
@@ -81,18 +83,30 @@ programs.[^ds-from-1963-to-2012-1]
 
 This essay approaches the problem of defining data science by describing
 how the collocation "data science," and its grammatical variants "data
-sciences" and "data scientist," have been used historically. The primary
-method employed is the close reading and precise seriation of textual
-evidence drawn from a representative collection of primary sources,
-including organizational reports, academic articles, news stories,
-advertisements, and other contemporary forms of evidence. These are used
-to trace the history of the term's social and institutional contexts of
-use as well as its denotative and connotative meanings. Extensive
-extracts are often presented, rather than paraphrased, as these in many
-cases provide the reader with direct and illuminating evidence for the
-meanings in question.[^ds-from-1963-to-2012-2]
+sciences" and "data scientist," have been used
+historically.[^ds-from-1963-to-2012-2] The primary method employed is
+the close reading and precise seriation of textual evidence drawn from a
+representative collection of primary sources, including organizational
+reports, academic articles, news stories, advertisements, and other
+contemporary forms of evidence. These are used to trace the history of
+the term's social and institutional contexts of use as well as its
+denotative and connotative meanings. Extensive extracts are often
+presented, rather than paraphrased, as these in many cases provide the
+reader with direct and illuminating evidence for the meanings in
+question.[^ds-from-1963-to-2012-3]
 
-[^ds-from-1963-to-2012-2]: The arguments and observations made by the
+[^ds-from-1963-to-2012-2]: A collocation is a combination of two or more
+    words that function as a single semantic unit. In contrast to a mere
+    n-gram, their usage tends to be idiomatic and non-random.
+    Etymologically, their usage often begins as marked constructions, by
+    means of quotes and hyphens, before eventually becoming idiomatic.
+    Often, a collocation become so common that it becomes a single word.
+    For example, the word "database" began as "data base" and
+    "data-base" before evolving into its current form. Throughout this
+    essay, the collocation "data science" is referred to as a term or
+    phrase, reflecting its unitary semantic status.
+
+[^ds-from-1963-to-2012-3]: The arguments and observations made by the
     authors in each case are represented in historical tense, not the
     textual present, which is the usual custom in writing about the
     history of ideas. For example, instead of saying that "Tukey argues
@@ -100,14 +114,14 @@ meanings in question.[^ds-from-1963-to-2012-2]
     argued P." This is done in order to ground the evidence in its
     social and historical setting.
 
-This historiography is presented as a series of periods in which the
+This historiography is presented as a series of decades in which the
 term takes on a new meaning, beginning with its initial usage in the
-1960s and ending in 2012, when the phrase becomes a commonplace. It is
-shown that the phrase has a continuous and consistent usage throughout
-this history. As usage of the phrase evolved, its meanings were always
-additions to and inflections on prior meanings; in no case did newer
-usages completely contradict what preceded them, nor did they appear as
-cases of random independent invention.
+1960s and ending around 2012, when the phrase becomes a commonplace. It
+is shown that the phrase has a continuous and consistent usage
+throughout this history. As usage of the phrase evolved, its meanings
+were always additions to and inflections on prior meanings; in no case
+did newer usages completely contradict what preceded them, nor did they
+appear as cases of random independent invention.
 
 The result is a picture of the transformation of a semantic complex that
 indexes a consistent set of technical, social, and cultural realities
@@ -115,23 +129,24 @@ that constitute what may be called the situation of data science, a
 situation that motivates the writing of this essay. Anticipating
 follow-up research to this essay, this situation has been described
 repeatedly by data scientists of all stripes as a kind of data
-processing pipeline, a sequence of operations that begins with the
+processing *pipeline*, a sequence of operations that begins with the
 consumption of data and ends with the production of data products,
 ranging from research results and visualizations to software services
 employed by various sectors of society.
 
 # A Note on Method
 
-It is recognized that to trace the history of a phrase is insufficient
-to represent the full history of what that phrase denotes, in this case
-a complex assemblage of concepts, tools, and practices that characterize
-data science today, many of which clearly precede or parallel the use of
-the term. Nevertheless, the exercise serves as a valuable starting point
-from which to develop a complete historical account, since finding
-textual examples for a phrase's string is relatively easy using textual
-databases, and because any related fields, such as data analysis or
-computational statistics, will be found to intersect with the term and
-may be pursed separately.
+It is recognized that to trace the history of a term is insufficient to
+represent the full history of what that term indexes. In this case, the
+term indexes a complex assemblage of concepts, tools, and practices that
+characterize data science today, many of which clearly precede or
+parallel the use of the term. Nevertheless, the exercise serves as a
+valuable starting point from which to develop a complete historical
+account, since finding textual examples for a phrase's string is
+relatively easy using textual databases, and because any related fields,
+such as operations research or data analysis or computational
+statistics, will be found to intersect with the term and may be pursed
+separately.
 
 More important, although phrases like "data science" are, like all
 linguistic signs, arbitrary, they acquire motivation when they function
@@ -141,14 +156,15 @@ embedded speech acts with perlocutionary effects---they do not merely
 describe things in the world, they also instantiate them through their
 usage by agents, who influence the formation of their referents. This
 helps to explain why, once the phrase began to trend after 2008, many
-who previously would not affiliate themselves with the phrase began
-doing so, initiating a preferential attachment process to the phrase and
-thereby complexifying its definition. It also explains the purpose of
-efforts to define the field, or to explain it away: each definition has
-a prescriptive dimension, since by proposing a "correct" definition, it
-attempts to influence usage and the field it denotes. The present essay
-is no exception.
+who previously would not affiliate themselves with the term began doing
+so, initiating a preferential attachment process to the term and thereby
+complexifying its definition. It also explains the purpose of efforts to
+define the field of data science, or to explain it away: each definition
+has a prescriptive dimension, since by proposing a "correct" definition,
+it attempts to influence usage and the field it denotes. The present
+essay is no exception.
 
+::: bourdieu
 Another reason for beginning with a history of words, via their traces
 as character strings, is that in historical research it is much easier
 to study words than the things they stand for, although we often
@@ -166,9 +182,10 @@ working with written records is to get at the things they stand for and
 index, much as quantitative data $\mathcal{D}$ are used to construct an
 hypothesis $\theta$ to explain their existence. We may regard this phase
 of work as similar to the Bayesian task of establishing likelihoods and
-priors on the way to estimating posteriors.[^ds-from-1963-to-2012-3]
+priors on the way to estimating posteriors.[^ds-from-1963-to-2012-4]
+:::
 
-[^ds-from-1963-to-2012-3]: This is more than an analogy. If we think of
+[^ds-from-1963-to-2012-4]: This is more than an analogy. If we think of
     the work of textual interpretation on which historical research
     depends in a probabilistic framework, we may express the hermeneutic
     relationship between words $Sr$ and meanings $Sd$ as follows:
@@ -193,7 +210,7 @@ Geertz and others [@geertz2017; @martin1998]. To locate science within
 culture is not to affirm or deny the objectivity of science, or its
 effectiveness relative to other ways of knowing, but simply to assert
 that science, like all human endeavors, is made possible in and through
-social interaction over time and space and the media forms that make
+social interaction over time and space through the media forms that make
 such interaction possible. Among these media forms the most significant
 is language. Given this, I adopt a discourse-centered approach to
 understanding culture [@urban1993]. Further, as a means to theorize the
@@ -220,20 +237,6 @@ leaves its marks. It is likely to be incomplete, but also comprehensive
 enough to capture patterns to a degree of resolution high enough to
 support the claims being made.
 
-::: comment
-Make sure this is included:
-
--   A study of usages as a point of departure.
--   Discovery of surprising consistency and continuity.
--   Not just words --- connected to communities and institutions
--   Defer the project of connecting to other fields
-
-Explain organization of historical data into a sequence of sectors.
-
--   Military-Industrial (AFCRL, VA, WSMR, etc.) --- 1963
--   Commercial (Mohawk, etc.)
-:::
-
 # Historical Sequence
 
 ## The 1960s
@@ -250,13 +253,13 @@ The military use first appeared in a series of reports covering the
 period from July 1962 to June 1970 on research carried out by the Data
 Sciences Laboratory (DSL). The DSL was founded in 1963 as one of several
 labs associated with the US Air Force Cambridge Research Laboratories
-(AFCRL).[^ds-from-1963-to-2012-4] These reports do not provide an
+(AFCRL).[^ds-from-1963-to-2012-5] These reports do not provide an
 explicit definition of data science or a rationale for choosing the
 expression over others, but its meaning is clear from context. Consider
-the stated motivation for the lab---which, as the first attested use of
-the phrase, is worth quoting at length:
+the stated motivation for the lab---which, as one of the first attested
+uses of the phrase, is worth quoting at length:
 
-[^ds-from-1963-to-2012-4]: The DSL was formed by combining the Computer
+[^ds-from-1963-to-2012-5]: The DSL was formed by combining the Computer
     and Mathematical Sciences Laboratory and the Communications Sciences
     Laboratory in the 1963 reorganization (Venkateswaran 1963: 628).
     Within the AFCRL, the lab was noted for its "research on speech
@@ -265,8 +268,8 @@ the phrase, is worth quoting at length:
 
 > The most striking common factor in the advances of the major
 > technologies during the past fifteen years \[i.e. since WWII\] is the
-> increased use and exchange of information. Modern data processing and
-> computing machinery, together with improved communications, has made
+> increased use and exchange of information. *Modern data processing and
+> computing machinery, together with improved communications*, has made
 > it possible to ask for, collect, process and use *astronomical
 > amounts* of detailed data. ...
 >
@@ -330,6 +333,12 @@ essential approach to extract value from such data. The lab produced
 significant research on pattern recognition and classification, machine
 learning, neural networks, and spoken language processing in the service
 of processing the novel forms of data described above.
+
+::: comment
+Insert here description of example projects. Pattern recognition of
+planes and letters, extracting linguistic features from voice, the idea
+of "dynamic data processing," and the DX-1.
+:::
 
 More important than locating a precise time and place for the origin of
 the field---a task doomed to fail, given the complexity and
@@ -399,9 +408,9 @@ Satellites*:
 > confined to technical reports alone, but also to the data from which
 > they are written. In fact, the quantity of raw data generally exceeds
 > the length of the resulting paper by many orders of magnitude
-> [@corliss1967: 157].[^ds-from-1963-to-2012-5]
+> [@corliss1967: 157].[^ds-from-1963-to-2012-6]
 
-[^ds-from-1963-to-2012-5]: Preceding the usage of data deluge and in a
+[^ds-from-1963-to-2012-6]: Preceding the usage of data deluge and in a
     wider context is "information explosion." Both expressions conjure
     images of disaster and have been remarkably persistent up to the
     present era. Only with the coining of "big data" have they been
@@ -416,6 +425,13 @@ data wrangling. It is reasonable to infer that the concept of data
 science emerged to designate this kind of work, which, in any case, is
 consistent with the published mission of the Data Sciences Lab.
 
+::: comment
+It may be appropriate to include here a discussion of the DX-1 (instead
+of above). The DX-1 generalizes the logic of the SAGE system, which in
+turn computerizes (informates?) the OR paradigm developed during the
+Battle of Britain.
+:::
+
 Prior to the formation of the DSL, the phrase "data-processing
 scientist" was in use to designate the work involved in data reduction
 centers, such as the one built at the Langley Aeronautical Lab in
@@ -425,10 +441,10 @@ program. Data reduction was essential to projects like SAGE, in which
 vast amounts of real-time signal data had to be reduced prior to
 analysis. In a House appropriations hearing in 1958, the following
 description of this kind of work was provided by Dr. James H.
-Doolittle,[^ds-from-1963-to-2012-6] the last chairman of NACA before it
+Doolittle,[^ds-from-1963-to-2012-7] the last chairman of NACA before it
 became NASA:
 
-[^ds-from-1963-to-2012-6]: This is the very same General Doolittle of
+[^ds-from-1963-to-2012-7]: This is the very same General Doolittle of
     Doolittle's Raid.
 
 > The data processing function is much more complex than the mere
@@ -451,21 +467,21 @@ became NASA:
 
 The kind of work conducted by NASA and the Air Force in this period
 provides a context for understanding the meaning of data science when
-the phrase first appeared. Here data science designates a kind of
-research focused on what we may call the *impedance* that arises from
-the ever-growing requirements of data, produced by an expanding array of
-signal generating technologies (e.g. radars and satellites), scientific
-instruments, and reports on one hand, and the limited capacity of
-computational machinery to process these on the other. It is concerned
-specifically with the development of computational methods and tools to
-handle the problems and harness the opportunities posed by surplus data.
-In this sense, *data science is the science of processing and extracting
-value from data by means of computation*. Although the specific
-technologies have changed continually, the condition of data impedance,
-the disproportion between data abundance and computational scarcity
-relative to the need to extract value from the data, has been constant
-since this time, and defines the condition that gives rise to data
-science in this sense.
+the phrase first appeared. In this context, data science designated a
+kind of research focused on what we may call the *impedance* that arises
+from the ever-growing requirements of data produced by an expanding
+array of signal generating technologies (e.g. radars and satellites),
+scientific instruments, and reports on one hand, and the limited
+capacity of computational machinery to process these on the other. It is
+concerned specifically with the development of computational methods and
+tools to handle the problems and harness the opportunities posed by
+surplus data. In this context, *data science is the science of
+processing and extracting value from data by means of computation*.
+Although the specific technologies have changed continually, the
+condition of data impedance, the disproportion between data abundance
+and computational scarcity relative to the need to extract value from
+the data, has been constant since this time, and defines the condition
+that gives rise to data science in this sense.
 
 This interpretation of the meaning of data science is corroborated by
 other contemporary usages. A report on a US Department of Defense
@@ -484,35 +500,34 @@ companies provided data processing services and lasted well into the era
 of personal computing. In the late 1960s and 1970s, many other companies
 used term as well, such as Data Science Ventures [@mortcollinsventures]
 and Carroll Data Science Corporation
-[@office1979].[^ds-from-1963-to-2012-7]
+[@office1979].[^ds-from-1963-to-2012-8]
 
-[^ds-from-1963-to-2012-7]: This continues into the 1980s, with Gateway
+[^ds-from-1963-to-2012-8]: This continues into the 1980s, with Gateway
     Data Sciences Corp and Vertex Data Science, Ltd.
 
 ### Meaning of "data" and the information crisis
 
-Here we should pause to consider the meaning and significance of the
-word "data" in these examples, especially given the DOD's concern to
-define it, as a clue for the motivation of the term "data science" when
-other candidates, such as computer science and information science,
-might have sufficed at the time. The choice of the term appears to be
-motivated by a concern to define and understand *data* itself as an
-object of study, a surprisingly opaque concept that is thrown into sharp
-relief in the context of getting computers to do the hard work of
-processing information in the context of impedance, as a result of their
+Let us consider the meaning and significance of the word "data" in these
+examples, especially given the DOD's concern to define it, as a clue for
+the motivation of the term "data science" when other candidates, such as
+computer science and information science, might have sufficed at the
+time. The choice of the term appears to be motivated by a concern to
+define and understand *data* itself as an object of study, a
+surprisingly opaque concept that is thrown into sharp relief in the
+context of getting computers to do the hard work of processing
+information in the context of impedance, as a result of their
 commercialization and widespread use in science, industry, and
-government. Thus although the term "data" has a long history ---
-deriving from the Latin word for that which is *given* in the
-epistemological sense, either through the senses, reason, or authority
---- in this context it refers to the structured and discrete
-representation of information sources so that these may be processed by
-computers. In other words, *data is machine readable
-information*.[^ds-from-1963-to-2012-8] It follows that the data sciences
-in this period are concerned with understanding machine readable
-information, in terms of how to represent it and how to process it in
-order to extract value.
+government. Thus although the term "data" has a long history---deriving
+from the Latin word for that which is *given* in the epistemological
+sense, either through the senses, reason, or authority---in this context
+it refers to the structured and discrete representation of information
+sources so that these may be processed by computers. In other words,
+*data is machine readable information*.[^ds-from-1963-to-2012-9] It
+follows that the data sciences in this period are concerned with
+understanding machine readable information, in terms of how to represent
+it and how to process it in order to extract value.
 
-[^ds-from-1963-to-2012-8]: Preceding the usage of data deluge and in a
+[^ds-from-1963-to-2012-9]: Preceding the usage of data deluge and in a
     wider context is "information explosion." Both expressions conjure
     images of disaster and have been remarkably persistent up to the
     present era. Only with the coining of "big dat
@@ -536,7 +551,7 @@ changed significantly since its founding, the journal provided the
 following clarification in 2014:
 
 > We primarily want to *specify* our definition of "data science" as the
-> classic sense of the science of data practices that advance human
+> classic sense of the science of data practices that advance human
 > understanding and knowledge---the evidence-based study of the
 > socio-technical developments and transformations that affect science
 > policy; the conduct and methods of research; and the data systems,
@@ -583,6 +598,14 @@ technologies, specifically databases. It is, as we shall see, a
 difference that continues to underlie current disputes over the meaning
 and value of data science.
 
+::: comment
+Here include the extent of usage of the term
+
+-   The VA
+-   WSMR
+-   Dynalectron
+:::
+
 ## The 1970s
 
 It is clear that by the early 1970s the term data science had been in
@@ -593,9 +616,10 @@ world and closely connected with Harvard and MIT [@altshuler2013], an
 international cross-roads of intellectual life where many would have
 come into contact with the term. Similarly, IBM and UNIVAC, the sources
 of the founders of two self-proclaimed data science companies, were the
-two largest computer manufacturers at the time.[^ds-from-1963-to-2012-9]
+two largest computer manufacturers at the
+time.[^ds-from-1963-to-2012-10]
 
-[^ds-from-1963-to-2012-9]: a" have they been displaced by a more
+[^ds-from-1963-to-2012-10]: a" have they been displaced by a more
     positive term.
 
     This is the very same General Doolittle of Doolittle's Raid.
@@ -610,7 +634,7 @@ two largest computer manufacturers at the time.[^ds-from-1963-to-2012-9]
     Massachusetts 02115 ("Announcements" 1964) ("Announcements" 1964).
 
 Although the AFCRL closed the Data Sciences Lab by
-1970,[^ds-from-1963-to-2012-10] the term continued to be used, most
+1970,[^ds-from-1963-to-2012-11] the term continued to be used, most
 notably by the Danish computer scientist Peter Naur, who suggested that
 computer science, a relatively new field, be renamed to data science.
 His argument, consistent with previous usage, was that computer science
@@ -623,7 +647,7 @@ with the DSL, which shared his research interest in developing
 programming languages [@naur1966; @naur1968]. In contrast to the AFCRL,
 Naur provided an explicit definition of data science:
 
-[^ds-from-1963-to-2012-10]: Altshuler writes that the lab was
+[^ds-from-1963-to-2012-11]: Altshuler writes that the lab was
     "abolished" in June 1972 "in response to a large reduction in
     manpower authorizations" (Altshuler 2013: 27). However, the unit is
     not mentioned in the July 1970 to June 1972 research report (AFCRL
@@ -656,20 +680,18 @@ Naur provided an explicit definition of data science:
 > processing needed. Some of the difficulty of understanding these
 > limits is caused by the ease with which certain data processing tasks
 > are performed by humans [@naur1974: 30-31; emphasis and citation in
-> original; the reference 0.7 refers to @ifipgui1971].
+> original; the reference "0.7" refers to @ifipgui1971].
 
 Clearly, Naur's definition inherits the classical definition described
 above; it locates the meaning of the term in the series of practices
 associated with the larger activity of data processing. These practices
 include establishment, choice of representation, conversion and
 transformation, the modeling of reality, and the guiding of human
-actions.
-
-One difference is that Naur is keen to locate data science within a
-division of labor implied by this general process, separating data
-science *per se* from the work of data acquisition (establishment) and
-the domain knowledge required to acquire data effectively. In this view,
-data science is more specifically concerned with the formal
+actions. One difference is that Naur is keen to locate data science
+within a division of labor implied by this general process, separating
+data science *per se* from the work of data acquisition (establishment)
+and the domain knowledge required to acquire data effectively. In this
+view, data science is more specifically concerned with the formal
 representation of data (i.e. with data structures and models), a
 practice that must be done in light of how data are to be transformed
 downstream, and with which tools (i.e. algorithms and programming
@@ -695,9 +717,9 @@ represent and process data had increased as well. As a result of this
 pressure, two important data standards were developed in this period:
 Codd's relational model, which laid the foundation for SQL and
 commercially viable relational databases in the 1980s, and Goldfarb's
-SGML, which would become a standard for encoding unstructured textual
-data (such as legal documents) and later the basis for HTML and XML
-[@codd1970 @goldfarb1970]. This focus on the human context of data
+SGML, which would become a standard for encoding so-called unstructured
+textual data (such as legal documents) and later the basis for HTML and
+XML [@codd1970 @goldfarb1970]. This focus on the human context of data
 processing is reflected in his later work; a volume of selections of his
 writing from 1951 to 1990, which includes his essay on data science, is
 entitled "Computing: A Human Activity" [@naur1992].
@@ -711,6 +733,8 @@ Topics:
 
 -   New Scientist jobs
 -   NASA, NOAA
+
+Discuss rise of data mining?
 :::
 
 ## The 1990s
@@ -730,11 +754,11 @@ data analysis for the latter, his choice of the term data science may
 have signaled an attempt to encompass both approaches to data. It is
 also worth noting that he later used to the term to introduce a "new
 culture of statistical science called LP MIXED DATA SCIENCE"
-[@parzen2013], after the term became popular.[^ds-from-1963-to-2012-11]
+[@parzen2013], after the term became popular.[^ds-from-1963-to-2012-12]
 Whether or not this unifying goal was his motivation, statisticians
 later became quite interested in the term for precisely this reason.
 
-[^ds-from-1963-to-2012-11]: Parzen's use of the term "culture" here
+[^ds-from-1963-to-2012-12]: Parzen's use of the term "culture" here
     echoes his comments on Breiman's famous essay on two cultures of
     statistical models, where he suggested that there are in fact
     several cultures, including his own, to which he devoted the
@@ -746,13 +770,13 @@ Noburu Ohsumi on the application of hypermedia to the problem of
 organizing data, "New Data and New Tools: A Hypermedia Environment for
 Navigating Statistical Knowledge in Data Science," an elaboration of an
 essay published two years earlier [@ohsumi1992;
-@ohsumi1994].[^ds-from-1963-to-2012-12] In these essays, Ohsumi
+@ohsumi1994].[^ds-from-1963-to-2012-13] In these essays, Ohsumi
 described the by now familiar litany of problems associated with data
 impedance, although this time the focus was on the production of data
 resulting from its analysis and storage, not its consumption in
 so-called raw form:
 
-[^ds-from-1963-to-2012-12]: According to Ohsumi, "the term 'data
+[^ds-from-1963-to-2012-13]: According to Ohsumi, "the term 'data
     science' appeared for the first time" in 1992, at a research
     exchange meeting between French and Japanese data analysts
     (so-called) at Montpelier University II in France [@ohsumi2000:
@@ -880,10 +904,10 @@ from this community were as inclusive.
 
 ::: bourdieu
 Hayashi assigned a revolutionary and almost messianic role to data
-science here. In his vision, the statistical sciences had lost their
-way. Mathematical statisticians had come to overvalue abstract inference
-and precision, and by choosing to work with the artificial data required
-to pursue these goals were "prone to be removed from reality" (40). Data
+science. In his vision, the statistical sciences had lost their way.
+Mathematical statisticians had come to overvalue abstract inference and
+precision, and by choosing to work with the artificial data required to
+pursue these goals were "prone to be removed from reality" (40). Data
 analysts, although working with real data, had "come to manipulate or
 handle only existing data without taking into consideration both the
 quality of data and the meaning of data ... to make efforts only for the
@@ -955,13 +979,13 @@ flag of data science for statistics, Ohsumi declared that because of its
 privileging of"mathematical methodologies" over an engagement with data
 acquisition, data analysis had become "a canary that has forgotten to
 sing," referring to a Japanese children's song that contemplates a
-silent bird's fate (332).[^ds-from-1963-to-2012-13] Amplifying Hayashi,
+silent bird's fate (332).[^ds-from-1963-to-2012-14] Amplifying Hayashi,
 he asserted that "\[h\]ow data are gathered is the key to defining the
 relevant information and making it easy to understand and analyze"
 (331). In making this point, Ohsumi referred to a new figure on the
 scene, one that contradicted the principles he proposed:
 
-[^ds-from-1963-to-2012-13]: The specific reference is to a poem, later
+[^ds-from-1963-to-2012-14]: The specific reference is to a poem, later
     set to music, written by the Japanese poet Saijoo Yaso (西条八十),
     who lived from 1892 to 1970. According to Miriam Davis, "The moral
     of the song is that if the canary loses its song it is not worth its
@@ -981,28 +1005,29 @@ science, since many today would consider the two synonymous.
 ### Data Mining and Knowledge Discovery
 
 The paradox is instructive: the name "data mining," as used here, makes
-its appearance in the early 1990s as a rubric that included a set of
-practices motivated by precisely the same conditions that led the Tokyo
-school to propose the field of data science in the first place. Among
-these conditions was the relatively sudden appearance of vast amounts of
-data stored in databases---one of the fruits of classical data
-science---owing to the rise of relational databases and personal
-computing in the 1980s, and a suite of tools to work with data, from
-spreadsheets to programming languages to statistical software packages.
-Whereas many statisticians viewed these developments with alarm, being
-acutely aware of the epistemic disruptions they produced for the
-received workflow of data analysis, the data mining community embraced
-them as an opportunity to convert data into value. Coming mainly from
-the field of computer science, data miners developed a set of methods
-that included the application of machine learning algorithms to the data
-found in databases in various contexts, from science to industry (such
-as point-of-sale records generated as by-product of computerized cash
-registers and credit card use). The relationship between machine
-learning and data mining was also mutually beneficial---data miners
-supplied machine learning with the large sets of data required for this
-class of algorithms to perform well. This relationship was greatly
-reinforced with the rise and development of the Web and social media
-platforms, which generated enormous amounts of behavioral data.
+its appearance in the late 1980s and early 1990s as a rubric that
+included a set of practices motivated by precisely the same conditions
+that led the Tokyo school to propose the field of data science in the
+first place. Among these conditions was the relatively sudden appearance
+of vast amounts of data stored in databases---one of the fruits of
+classical data science---owing to the rise of relational databases and
+personal computing in the 1980s, and a suite of tools to work with data,
+from spreadsheets to programming languages to statistical software
+packages. Whereas many statisticians viewed these developments with
+alarm, being acutely aware of the epistemic disruptions they produced
+for the received workflow of data analysis, the data mining community
+embraced them as an opportunity to convert data into value. Coming
+mainly from the field of computer science, data miners developed a set
+of methods that included the application of machine learning algorithms
+to the data found in databases in various contexts, from science to
+industry (such as point-of-sale records generated as by-product of
+computerized cash registers and credit card use). The relationship
+between machine learning and data mining was also mutually
+beneficial---data miners supplied machine learning with the large sets
+of data required for this class of algorithms to perform well. This
+relationship was greatly reinforced with the rise and development of the
+Web and social media platforms, which generated enormous amounts of
+behavioral data.
 
 Although the two fields---for simplicity, let's call them data analysis
 and data mining---were responding to the same conditions of data surplus
@@ -1113,7 +1138,7 @@ it's contributions were viewed as opportunities:
 > artificial intelligence and machine learning
 > [@89618ac5-1e4e-3cce-a5de-eb7b926f27c9: 1232].
 
-On the other hand, data mining---the most notable development comping
+On the other hand, data mining---the most notable development coming
 from the computational field---was excluded from this vision. Not only
 was it absent from the list of relevant topics above, it was singled out
 for criticism, echoing the stance of the Tokyo school. In highlighting
@@ -1213,12 +1238,13 @@ Donoho's remarks, made over a decade and a half later:
 > essentially all their activity into the last category, theory
 > [@donoho2017: 750].
 
-Radical as it was, the curriculum was fairly conservative. The area of
-"models and methods," for example, focused exclusively on statistical
-data models, as opposed to algorithmic ones (to use Breiman's terms,
-discussed below), while the "computing with data" area focused narrowly
-on the infrastructure to support these models. Cleveland's bias toward
-traditional statistical modeling is made clear in his explanation of it:
+Radical as it may have appeared, the curriculum was fairly conservative.
+The area of "models and methods," for example, focused exclusively on
+statistical data models, as opposed to algorithmic ones (to use
+Breiman's terms, discussed below), while the "computing with data" area
+focused narrowly on the infrastructure to support these models.
+Cleveland's bias toward traditional statistical modeling is made clear
+in his explanation of it:
 
 > The data analyst faces two critical tasks that employ statistical
 > models and methods: (1) specification---the building of a model for
@@ -1255,10 +1281,11 @@ passage does:
 > analysis of data is limited*, just as the knowledge of computing
 > environments by statisticians is limited (23; emphasis added).
 
-So, Cleveland continued the practice of the Tokyo school to dismiss the
-contributions of data miners, for their lack of training in traditional
-statistics or their lack of attention to data design, and to confine the
-role of computational expertise to knowledge of "environments."
+So, Cleveland continued the practice of the Tokyo school to put at arms
+length the contributions of data miners, for their lack of training in
+traditional statistics or their lack of attention to data design, and to
+confine the role of computational expertise to knowledge of
+"environments."
 
 ::: bourdieu
 Regarding the argument being made here, that the term "data science" has
@@ -1317,9 +1344,9 @@ choice of term was motivated by marketing; as Higgins wrote:
 > negative connotation that it might be wise to rename our departments
 > something like "Department of Data Science" or "Department of
 > Information and Data Science." In this vein, I have suggested the term
-> "data specialist" [@higgins1999].[^ds-from-1963-to-2012-14]
+> "data specialist" [@higgins1999].[^ds-from-1963-to-2012-15]
 
-[^ds-from-1963-to-2012-14]: Higgins here referred to a quote from
+[^ds-from-1963-to-2012-15]: Higgins here referred to a quote from
     Guttman found in a paper by Kettenring (Kettenring 1997a).
 
 ## The 2000s
@@ -1345,7 +1372,7 @@ regardless of the correspondence of these to the world. This is the
 "algorithmic modeling culture," associated with computer science,
 machine learning, and, we might add, data mining. Breiman described the
 growth of this culture as "rapid" (beginning circa 1985) and
-characterized its results as "startling" (Breiman 2001: 200).
+characterized its results as "startling" [@breiman2001: 200].
 
 As Ohsumi wrote, for one culture the data models are more important than
 the data, and not all data are suitable to supporting the development of
@@ -1371,7 +1398,7 @@ reasons precisely opposite to that claimed by the Tokyo school, whom
 Breiman may have admonished for an excessive concern for the conditions
 of acquisition.
 
-::: {#bourdieu}
+::: bourdieu
 One way to account for the difference between the two cultures is to
 compare their institutional settings. The data modeling culture is
 closely aligned with the project of academic science and the search for
@@ -1699,9 +1726,9 @@ databases excluded from what was considered worthwhile scientific work:
 > computer science. I will use my experience to draw comparisons between
 > the problems computer science had to become academically recognized
 > and those faced by data science [@smith2006:
-> 163].[^ds-from-1963-to-2012-15]
+> 163].[^ds-from-1963-to-2012-16]
 
-[^ds-from-1963-to-2012-15]: Based on the affiliations cited in his three
+[^ds-from-1963-to-2012-16]: Based on the affiliations cited in his three
     publications between 1960 and 1969, the setting for Smith's story
     was the School of Physics and Applied Mathematics at the Queen's
     University of Belfast in Northern Ireland.
@@ -1946,7 +1973,7 @@ scientist" took place. After nearly a half century of development, in
 which two broad and consistent usages had emerged---the classical and
 the statistical---the term was applied in a context that launched it
 into the public eye and increased its circulation by orders of
-magnitude.[^ds-from-1963-to-2012-16] This context was the social media
+magnitude.[^ds-from-1963-to-2012-17] This context was the social media
 corporation of the Web 2.0 era, itself the inheritor of two crowning
 achievements of data processing engineering---the database and the
 Internet---catalyzed by Berners-Lee's invention of a global hypertext
@@ -1955,11 +1982,11 @@ topic, *Harvard Business Review*'s "Data Scientist: The Sexiest Job of
 the 21^st^ Century," the term "data scientist" was "coined in 2008 by
 \... D.J. Patil, and Jeff Hammerbacher, then the respective leads of
 data and analytics efforts at LinkedIn and Facebook" (Davenport and
-Patil 2012).[^ds-from-1963-to-2012-17] Although on its face this claim
+Patil 2012).[^ds-from-1963-to-2012-18] Although on its face this claim
 is obviously false, it is apparently correct in having identified the
 first usages of the term in this new context.
 
-[^ds-from-1963-to-2012-16]: According to the Google Books NGram Viewer,
+[^ds-from-1963-to-2012-17]: According to the Google Books NGram Viewer,
     using the English (2019) corpus with a smoothing factor of 3, the
     corpus frequency of the bigram "data scientist" (case insensitive)
     goes from 0.0000000613% in 2008 to 0.0000035018% in 2012 and
@@ -1971,7 +1998,7 @@ first usages of the term in this new context.
     similar for "data science," with increases of 11 and 56 times from
     2008 to 2012 and 2016 respectively.
 
-[^ds-from-1963-to-2012-17]: The title of this article was adapted from a
+[^ds-from-1963-to-2012-18]: The title of this article was adapted from a
     phrase used in 2008 by Hal Varian, chief economist at Google. In an
     interview with McKinsey's James Manyika, Varian quipped: "I keep
     saying the sexy job in the next ten years will be statisticians"
@@ -2016,14 +2043,14 @@ title (Halevy, Norvig, and Pereira 2009). In this approach, the size of
 data is considered more important than the sophistication of
 models---"invariably, simple models and a lot of data trump more
 elaborate models based on less data" (9; also quoted by
-Hammerbacher).[^ds-from-1963-to-2012-18] In essence, then, the new role
+Hammerbacher).[^ds-from-1963-to-2012-19] In essence, then, the new role
 of data scientist at Facebook was close to that of the data scientist
 for the British Antarctic Survey, i.e. the classical, not the
 statistical definition, with the added focus on machine learning.
 Indeed, Hammerbacher appears to have recognized the provenance of the
 term:
 
-[^ds-from-1963-to-2012-18]: By "simple," the authors meant few
+[^ds-from-1963-to-2012-19]: By "simple," the authors meant few
     assumptions about the nature of the data, such as are required by
     data models that posit parametric distributions or causal relations
     among features. The usage is ironic, since one of the differences
@@ -2264,7 +2291,7 @@ first resort is anathema to that approach, at least in principle.
 In 2011, O'Reilly, whose role in the promotion of data science is worth
 its own investigation, produced a series of influential blog posts and
 reports that sought to codify and amplify the definition developed by
-Hammerbacher, Yau, Conway, Mason, and Wiggins.[^ds-from-1963-to-2012-19]
+Hammerbacher, Yau, Conway, Mason, and Wiggins.[^ds-from-1963-to-2012-20]
 The definition produced was consistent with the classical version, but
 strongly inflected by the new business context. For example, Loukides'
 in "What is Data Science?" described the field in terms consistent with
@@ -2274,7 +2301,7 @@ discourse these elements are combined in the new concept of the "data
 product," a good or service that integrates surplus data to provide
 value to users:
 
-[^ds-from-1963-to-2012-19]: The influence of O'Reilly on this history is
+[^ds-from-1963-to-2012-20]: The influence of O'Reilly on this history is
     worth its own essay.
 
 > The web is full of "data-driven apps." Almost any e-commerce
@@ -2770,9 +2797,9 @@ the practices of data mining, which, on its own, is considered
 unprincipled. Indeed, this definition may be seen primarily as an effort
 to correct what are perceived to be the fruitful but misguided efforts
 of data mining by grounding its computational methods in a
-mathematically sound framework.[^ds-from-1963-to-2012-20]
+mathematically sound framework.[^ds-from-1963-to-2012-21]
 
-[^ds-from-1963-to-2012-20]: The works of Hastie, Tibshirini, and their
+[^ds-from-1963-to-2012-21]: The works of Hastie, Tibshirini, and their
     coauthors are perhaps the most successful exemplars of this
     definition; their work incorporates enthusiastically data mining,
     but always within the encompassing framework of statistical thinking
@@ -2943,7 +2970,7 @@ computational data science (DS~1~) and partly an effort to correct what
 were perceived to be the excesses of this approach. The marginalization
 of computational technology in this definition of data science is
 consistent with the larger conflict between what Breiman famously called
-"two cultures" in the work of statistics.[^ds-from-1963-to-2012-21]
+"two cultures" in the work of statistics.[^ds-from-1963-to-2012-22]
 Breiman's trope provides a useful framework for capturing the
 epistemological differences between the two communities associated with
 these definitions. On the one hand, we have the data analysts, on the
@@ -2960,7 +2987,7 @@ enthusiastically applied the newer and rapidly developing world of
 algorithms and, more generally, computational thinking to the data
 surplus that was inundating science, government, and industry.
 
-[^ds-from-1963-to-2012-21]: It is no coincidence that Breiman's essay
+[^ds-from-1963-to-2012-22]: It is no coincidence that Breiman's essay
     appeared at about the time some academic statisticians sought to
     rebrand their field as data science in an attempt to integrate the
     gains of computational technology while purging it of the
