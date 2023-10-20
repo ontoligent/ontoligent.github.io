@@ -1,0 +1,17 @@
+{
+  "index.qmd": {
+    "index.html": "5b0ff4b3"
+  },
+  "intro.qmd": {
+    "intro.html": "3c2b771a"
+  },
+  "summary.qmd": {
+    "summary.html": "f8f114b4"
+  },
+  "references.qmd": {
+    "references.html": "6efab578"
+  },
+  "essays/history-of-ds/ds-from-1963-to-2012.qmd": {
+    "ds-from-1963-to-2012.html": "3923f604"
+  }
+}

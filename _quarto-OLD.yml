@@ -1,0 +1,27 @@
+project:
+  type: book
+  output-dir: docs
+  
+book:
+  title: "Essays"
+  author: "Rafael C. Alvarado"
+  repo-url: https://github.com/ontoligent/ontoligent.github.io 
+  chapters:
+    - index.qmd
+    - part: "Data Science"
+      chapters:
+        - essays/history-of-ds/ds-from-1963-to-2012.qmd
+    - part: "Digital Humanities"
+    - part: "Notes"
+
+comments:
+  hypothesis: true
+
+bibliography: references.bib
+
+format:
+  html:
+    number-sections: false
+    theme: [cosmo, default.css]
+#  pdf:
+#    documentclass: scrreprt
